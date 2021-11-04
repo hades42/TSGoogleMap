@@ -1,0 +1,13 @@
+{
+  "name": "mapproject",
+  "version": "1.0.0",
+  "description": "This is for learning TypeScript",
+  "scripts": {
+    "dev": "parcel index.html"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel": "^2.0.0"
+  }
+}
